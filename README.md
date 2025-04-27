@@ -1,4 +1,17 @@
-# oops-game-kit
+## vibe coding guide
+
+```
+为了帮助团队成员协作开发，读取项目代码，分析架构，在docs文件夹下整理出文档，包括架构合计、数据流，客户端开发部分包括页面设计、组件设计、模块使用说明等游戏客户端开发核心环节，客户端调用后端api 以及基于prd文档的后端设计
+```
+下载源代码以后，输入以上提示词，得到了docs文件夹下的文档
+
+输入 `npx repmox` 得到了 docs\repomix-analysis.md 
+
+这些作为提供给ai编程工具的context
+
+
+
+## oops-game-kit
 
 ### 介绍
 基于 Oops Framework 提供的游戏项目开发模板，项目中提供了最新版本 Cocos Creator 3.x 插件与游戏资源初始化通用逻辑。
